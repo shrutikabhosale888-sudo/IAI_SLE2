@@ -48,6 +48,50 @@ Best Case: Admin
 Average Case: Hostel1
 
 Worst Case: Parking
+----------------------------------------------
+Best Case
+Goal Node: Admin
+----------------------------------------------
+
+BFS:
+Average Time: 0.001374 ms
+Nodes Expanded: 2
+Goal Found: True
+
+DFS:
+Average Time: 0.000951 ms
+Nodes Expanded: 2
+Goal Found: True
+
+----------------------------------------------
+Average Case
+Goal Node: Hostel1
+----------------------------------------------
+
+BFS:
+Average Time: 0.002899 ms
+Nodes Expanded: 10
+Goal Found: True
+
+DFS:
+Average Time: 0.003554 ms
+Nodes Expanded: 7
+Goal Found: True
+
+----------------------------------------------
+Worst Case
+Goal Node: Parking
+----------------------------------------------
+
+BFS:
+Average Time: 0.003853 ms
+Nodes Expanded: 13
+Goal Found: True
+
+DFS:
+Average Time: 0.00537 ms
+Nodes Expanded: 13
+Goal Found: True
 
 Algorithms
 BFS
